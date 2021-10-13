@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+header {
+
+    background: url(./img/amigos.jpg);
+    background-size: cover; 
+    padding: 230px;
+    height: 640px;
+}
+
+nav{
+    background-color: rgb(19, 34, 53);
+    display: flex;
+    align-items: center;
+    height: 12vh;
+}
+.imgnav{
+    height: 70px;
+}
+
+div.container {
+    background:white;
+    max-width: 450px;
+    min-width: 60vh;
+    padding: 2rem;
+    box-shadow: 5px 5px 15px black(0, 0, 0, 0.);
+    border-radius: 8px ;
+    height: 300px;
+}
+
+.formulario {
+    display: flex;
+    justify-content: flex-end;      
+    margin-left: 1000px;
+    
+}
+
+input-field {
+    position: relative;
+
+}
+
+.input-field input {
+    outline: none;
+    font-size: 0.9rem;
+    color: black(0, 0, 0, 0,7);
+}
+
+
+
+div h2 {
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+form input[type="submit"] {
+
+    margin-top: 2rem;
+    padding: 0.4rem;
+    background-color: rgb(19, 34, 53);;
+    cursor: pointer;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 300;
+    border-radius: 4px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form .input-field:first-child {
+    margin-bottom: 1.5rem;
+
+}
+
+.input-field .underline::before {
+    content: '';
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    bottom: -5px;
+    left: 0;
+    background: black (0, 0, 0, 0.2);
+}
+
+.container-texto {
+    display: block;
+    padding: 50px;
+    margin-top: 80px;
+    text-align: center;
+    font-size: 35px;
+    
+}
+
+#segunda-sessao {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.imagens-alugar {
+   padding: 60px;
+}
+
+.imagensSectionUm {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+}
+
+main p {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.imagensSectionX {
+    width: 300px;
+}
+
+
+section {
+    background: url(./img/04.jpg);
+    background-size: cover; 
+    padding: 200px;
+    height: 650px;
+    margin-top: 130px;
+}
+
+.penultimoContainer {
+    padding: 10px
+}
+
+#terceira-sessao {
+    background: url(./img/asian.jpg);
+    background-size: cover; 
+    height: 500px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    
+}
+
+span {
+    height: 500px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    display: flex;
+} 
+
+.cardao { 
+    display: flex;
+    align-items: center;
+    
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px;
+}
+
+.examao{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+
+blockquote{
+
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.examao h1 {
+        text-align: center;
+        padding: 20px;
+        font-size: 60px;
+    }
+
+.examao p {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.examao img{
+    height: 40px;
+}
+
+footer {
+    background-color:  rgb(19, 34, 53);
+    padding: 200px;
+}
+
+#listas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    color: white;
+}
+
+.final{
+    margin-top: 40px;
+
+}
+
+h3{
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.final h2{
+    display: flex;
+    color: #584747;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.redes{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#redes1{
+    display: flex;
+}
+
+.imgx{
+    padding: 6px;
+}
+
+.imgss{
+    display: flex;
+}
+
+.containeri{
+    display: flex;
+    
+}
