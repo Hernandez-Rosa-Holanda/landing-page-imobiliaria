@@ -12,10 +12,10 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-<li>
-  <ul>HTML5 Semântico</ul>
-   <ul>CSS</ul>
-</li>
+<ul>
+  <li>HTML5 Semântico</ul>
+  <li>CSS</ul>
+</ul>
 
 <h2>Executar o Projeto</h2>
 
