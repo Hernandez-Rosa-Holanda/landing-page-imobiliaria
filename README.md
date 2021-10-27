@@ -23,5 +23,7 @@
   git clone https://github.com/Hernandez-Rosa-Holanda/landing-page-imobiliaria.git
 
 <h2>Autor</h2> 
-[Linkedin](https://www.linkedin.com/in/hernandez-rosa-de-holanda/)
+<p>
+<a href:"https://www.linkedin.com/in/hernandez-rosa-de-holanda/">Linkedin</a>
+</p>
 </div> 
