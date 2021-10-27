@@ -14,7 +14,7 @@
 
 <ul>
   <li>HTML5 Semântico</ul>
-  <li>CSS</ul>
+    <li>CSS</ul>
 </ul>
 
 <h2>Executar o Projeto</h2>
