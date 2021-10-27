@@ -20,7 +20,7 @@
 <h2>Clonar projeto</h2>
 
 <i>#Clonar repositório</i></br>
-git clone https://github.com/Hernandez-Rosa-Holanda/landing-page-imobiliaria.git
+  git clone https://github.com/Hernandez-Rosa-Holanda/landing-page-imobiliaria.git
 
 <h2>Autor</h2> 
 [Linkedin](https://www.linkedin.com/in/hernandez-rosa-de-holanda/)
