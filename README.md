@@ -9,4 +9,4 @@ A ideia era construir a identidade visual do zero e aplcar em uma landing page.
 
 
 
-![F4LIFE-Google-Chrome-2021-10-27-19-21-11_Trim_Trim](https://user-images.githubusercontent.com/82759865/139156442-414a1b52-411a-4e71-881b-c6753190c2da.gif)
+![F4LIFE-Google-Chrome-2021-10-27-19-21-11_Trim_Trim](https://user-images.githubusercontent.com/82759865/139156442-414a1b52-411a-4e71-881b-c6753190c2da.gif =100x200)
