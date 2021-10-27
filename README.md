@@ -1,6 +1,6 @@
 #Sobre o Projeto 
 
-F4-Future - Imobiliária
+F4-Future - 
 Projeto tem como base atender as necessidades de uma imobiliária.
 A ideia era construir a identidade visual do zero e aplcar em uma landing page.
 (Projeto em andamento)
