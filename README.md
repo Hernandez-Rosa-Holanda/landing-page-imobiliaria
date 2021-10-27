@@ -24,6 +24,6 @@
 
 <h2>Autor</h2> 
 <p>
-<a href="https://www.linkedin.com/in/hernandez-rosa-de-holanda/">Linkedin</a>
+<a href="https://www.linkedin.com/in/hernandez-rosa-de-holanda/">Perfil do Linkedin</a>
 </p>
 </div> 
