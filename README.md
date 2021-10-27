@@ -10,6 +10,12 @@
 
 ![F4LIFE-Google-Chrome-2021-10-27-19-21-11_Trim_Trim](https://user-images.githubusercontent.com/82759865/139156442-414a1b52-411a-4e71-881b-c6753190c2da.gif)
 
+<h2>Tecnologias utilizadas</h2>
+<li>
+  <ui>HTML5 Semântico</ui>
+  <ui>CSS</ui>
+</li>
+
 <h2>Executar o Projeto</h2>
 
 <i>#Clonar repositório</i>
