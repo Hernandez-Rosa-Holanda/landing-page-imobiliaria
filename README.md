@@ -13,8 +13,8 @@
 <h2>Tecnologias utilizadas</h2>
 
 <li>
-  <ui>HTML5 Semântico</ui>
-  <ui>CSS</ui>
+  <ui>HTML5 Semântico
+  <ui>CSS
 </li>
 
 <h2>Executar o Projeto</h2>
