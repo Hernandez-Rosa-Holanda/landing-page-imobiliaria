@@ -2,8 +2,8 @@
   <h1>Sobre o Projeto</h1>
 
   <h3>F4-Future</h3> 
-  <p>Projeto tem como base atender as necessidades de uma imobiliária.</br>
-     A ideia era construir a identidade visual do zero e aplcar em uma landing page.</br>
+  <p>Criei apenas um modelo do projeto, com objetivo de passar uma base de como seria uma landing page que atenderia as necessidades de uma imobiliária.</br>
+     A ideia era construir a identidade visual do zero e aplcar.</br>
      (Projeto em andamento)
   </p>
 <h2>Layout</h2>
